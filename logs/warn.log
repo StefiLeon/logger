@@ -1,0 +1,9 @@
+{"level":"warn","message":"GET en ruta /error no implementado.","timestamp":"2022-02-18T02:27:48.250Z"}
+{"level":"warn","message":"GET en ruta /favicon.ico no implementado.","timestamp":"2022-02-18T02:27:48.356Z"}
+{"level":"warn","message":"GET en ruta /error no implementado.","timestamp":"2022-02-18T02:30:38.255Z"}
+{"level":"warn","message":"GET en ruta /info no implementado.","timestamp":"2022-02-18T02:30:48.357Z"}
+{"level":"warn","message":"GET en ruta /info no implementado.","timestamp":"2022-02-18T02:31:03.224Z"}
+{"level":"warn","message":"GET en ruta / no implementado.","timestamp":"2022-02-18T02:31:18.765Z"}
+{"level":"warn","message":"GET en ruta / no implementado.","timestamp":"2022-02-18T02:31:30.000Z"}
+{"level":"warn","message":"GET en ruta / no implementado.","timestamp":"2022-02-18T02:32:08.328Z"}
+{"level":"warn","message":"GET en ruta /iop no implementado.","timestamp":"2022-02-18T02:33:23.480Z"}
